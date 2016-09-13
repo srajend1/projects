@@ -46,8 +46,8 @@ Furthur still being informative it __ambiently__ while ensuring __not being ambi
 
 ##The Prototype
 
-####[Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
-####[Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
+###[Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
+###[Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
 ##The Software  : 
