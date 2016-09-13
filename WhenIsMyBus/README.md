@@ -48,7 +48,7 @@ Furthur still being informative it __ambiently__ while ensuring __not being ambi
 
 ####[Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
 ####[Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
-![Poster](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Poster.pdf)
+![Poster](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/POSTER FINAL BUS.png)
 
 ##The Software  : 
 ####[Server Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
