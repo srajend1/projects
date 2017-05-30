@@ -13,14 +13,14 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-####_**When's my bus**_  is a smart bus sign that informs what buses arrive at a given stop and provides real-time data on the bus ETAs via ambient lighting/display mechanisms.
+#### _**When's my bus**_  is a smart bus sign that informs what buses arrive at a given stop and provides real-time data on the bus ETAs via ambient lighting/display mechanisms.
 ![Concept Schematic](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/Schematic.png)
 
 -------------------------------------------------------------------------------------------------------------------------
 
 
-##The (Thought) Process
-###The Thinking behind the Making
+## The (Thought) Process
+### The Thinking behind the Making
 --------------------------------------------------------------------------------------------------------------------------
 __Escape from the ‘Terminal Screen’__
 
@@ -44,22 +44,22 @@ Furthur still being informative it __ambiently__ while ensuring __not being ambi
 --------------------------------------------------------------------------------------------------------------------------
 
 
-##The Prototype
+## The Prototype
 
-###[Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
-###[Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
+### [Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
+### [Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
 
-##The Poster
+## The Poster
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
-##The Software  : 
-####[Server Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
-####[Particle Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATdisp/PATdisp.ino)
-#####References :
+## The Software  : 
+#### [Server Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
+#### [Particle Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATdisp/PATdisp.ino)
+##### References :
 - https://learn.adafruit.com/assets/21024
 - https://github.com/ensonic/photon-waveout
 
-##The Hardware  :
+## The Hardware  :
 ### [Circuitry](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Final%20Circuitry.png)
 ### Bill Of Materials
 
@@ -87,7 +87,7 @@ Drill, Saw, Scissors, Paper Cutters | as per requirement| Tools for Prototype
 
 
 
-##User Testing, Feedback and Design Changes :
+## User Testing, Feedback and Design Changes :
 
 The neopixel ring used to represent bus ETA initially had a __gradient__ that transitioned from red to green.
 ![Time Chunks](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Time%20Chunks.png)
@@ -95,7 +95,7 @@ __Distinctly Coloured Quadrants as Time 'Chunks'__
 
 It was however found to be more useful when ‘chunked’ into 3 __distinct quadrants__ of red, yellow and green that clearly represented 5mins each amounting to a whole of 15 mins. Users could now easily understand the and interpret the progression while also having a sense of the 'time' or duration each quadrant indicated.
 
-##Future development :
+## Future development :
 - Selection of appropriate, optimal Hardware for Audio file storage (the Photon is currently unable to store audio data for more than one bus)
 - Scaling : deployment design
 - Refining Case design for installation : must be quick and adaptable to variable pole diameters
