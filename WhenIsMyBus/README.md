@@ -1,7 +1,7 @@
 # When's My Bus?
 
 
-#####*What if, from a distance, you glanced at a bus sign and it told you what bus was coming next and when it would arrive?*
+##### *What if, from a distance, you glanced at a bus sign and it told you what bus was coming next and when it would arrive?*
 
 *If your hands were full of groceries and you'd rather not have to take your smart phone out to check your bus on the bus tracker app..*
 
