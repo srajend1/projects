@@ -39,7 +39,7 @@ Missing bus to school has been among the most frustrating things for me, and fro
 Bus signs are an inevitable part of transit infrastructure, so I wondered, why not make them smart? Why not make them ‘enchanted objects’? (not too much though, just enough)   
 
 While making them smart why not make them glance-able or rather keep them __just as glance-able as they were before__ (avoid requiring excessive attention or excessive interaction), but __way more informative now__.
-Furthur still being informative it __ambiently__ while ensuring __not being ambiguous__.
+Furthur still being informative __ambiently__ while ensuring __not being ambiguous__.
 
 --------------------------------------------------------------------------------------------------------------------------
 
