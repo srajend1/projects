@@ -1,3 +1,4 @@
+![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
 ![The Sign](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180706.jpg)
 
