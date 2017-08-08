@@ -1,6 +1,6 @@
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
-![The Sign](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180706.jpg)
+![TheSign](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180706.jpg)
 
 ![the audio button panel](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180735.jpg)
 ![pole base eposing circuitry](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180806.jpg)
