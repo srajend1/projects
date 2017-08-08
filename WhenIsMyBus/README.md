@@ -46,8 +46,8 @@ Furthur still being informative __ambiently__ while ensuring __not being ambiguo
 
 ## The Prototype
 
-### [Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
-### [Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
+### [Video](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Videos)
+### [Image Gallery](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/README_IMAGES.md)
 
 ## The Poster
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
@@ -55,13 +55,13 @@ Furthur still being informative __ambiently__ while ensuring __not being ambiguo
 ## The Software  : 
 #### [Server Code](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
 
-#### [Particle Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATdisp/PATdisp.ino)
+#### [Particle Code](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/PATdisp/PATdisp.ino)
 ##### References :
 - https://learn.adafruit.com/assets/21024
 - https://github.com/ensonic/photon-waveout
 
 ## The Hardware  :
-### [Circuitry](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Final%20Circuitry.png)
+### [Circuitry](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/Final%20Circuitry.png)
 ### Bill Of Materials
 
 
@@ -91,7 +91,7 @@ Drill, Saw, Scissors, Paper Cutters | as per requirement| Tools for Prototype
 ## User Testing, Feedback and Design Changes :
 
 The neopixel ring used to represent bus ETA initially had a __gradient__ that transitioned from red to green.
-![Time Chunks](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Time%20Chunks.png)
+![Time Chunks](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/Time%20Chunks.png)
 __Distinctly Coloured Quadrants as Time 'Chunks'__
 
 It was however found to be more useful when ‘chunked’ into 3 __distinct quadrants__ of red, yellow and green that clearly represented 5mins each amounting to a whole of 15 mins. Users could now easily understand the and interpret the progression while also having a sense of the 'time' or duration each quadrant indicated.
