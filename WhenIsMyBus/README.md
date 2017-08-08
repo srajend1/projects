@@ -53,7 +53,9 @@ Furthur still being informative __ambiently__ while ensuring __not being ambiguo
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
 ## The Software  : 
-#### [Server Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
+#### [Server Code]
+(https://github.com/srajend1/projects/blob/master/WhenIsMyBus/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
+
 #### [Particle Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATdisp/PATdisp.ino)
 ##### References :
 - https://learn.adafruit.com/assets/21024
