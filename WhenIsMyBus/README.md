@@ -1,7 +1,7 @@
 # When's My Bus?
 
 
-#####*What if, from a distance, you glanced at a bus sign and it told you what bus was comiing next and when it would arrive?*
+##### *What if, from a distance, you glanced at a bus sign and it told you what bus was coming next and when it would arrive?*
 
 *If your hands were full of groceries and you'd rather not have to take your smart phone out to check your bus on the bus tracker app..*
 
@@ -13,14 +13,14 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-####_**When's my bus**_  is a smart bus sign that informs what buses arrive at a given stop and provides real-time data on the bus ETAs via ambient lighting/display mechanisms.
+#### _**When's my bus**_  is a smart bus sign that informs what buses arrive at a given stop and provides real-time data on the bus ETAs via ambient lighting/display mechanisms.
 ![Concept Schematic](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/Schematic.png)
 
 -------------------------------------------------------------------------------------------------------------------------
 
 
-##The (Thought) Process
-###The Thinking behind the Making
+## The (Thought) Process
+### The Thinking behind the Making
 --------------------------------------------------------------------------------------------------------------------------
 __Escape from the ‘Terminal Screen’__
 
@@ -39,28 +39,29 @@ Missing bus to school has been among the most frustrating things for me, and fro
 Bus signs are an inevitable part of transit infrastructure, so I wondered, why not make them smart? Why not make them ‘enchanted objects’? (not too much though, just enough)   
 
 While making them smart why not make them glance-able or rather keep them __just as glance-able as they were before__ (avoid requiring excessive attention or excessive interaction), but __way more informative now__.
-Furthur still being informative it __ambiently__ while ensuring __not being ambiguous__.
+Furthur still being informative __ambiently__ while ensuring __not being ambiguous__.
 
 --------------------------------------------------------------------------------------------------------------------------
 
 
-##The Prototype
+## The Prototype
 
-###[Video](https://github.com/daraghbyrne/advancediot2016/tree/master/students/srajend1/TheFinalSprint/Videos)
-###[Image Gallery](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/README_IMAGES.md)
+### [Video](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Videos)
+### [Image Gallery](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/README_IMAGES.md)
 
-##The Poster
+## The Poster
 ![Poster](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/POSTER%20FINAL%20BUS.png)
 
-##The Software  : 
-####[Server Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
-####[Particle Code](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/PATdisp/PATdisp.ino)
-#####References :
+## The Software  : 
+#### [Server Code](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/PATRemoteServer/src/edu/cmu/patpublisher/PATRemoteServer.java)
+
+#### [Particle Code](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/PATdisp/PATdisp.ino)
+##### References :
 - https://learn.adafruit.com/assets/21024
 - https://github.com/ensonic/photon-waveout
 
-##The Hardware  :
-### [Circuitry](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Final%20Circuitry.png)
+## The Hardware  :
+### [Circuitry](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/Final%20Circuitry.png)
 ### Bill Of Materials
 
 
@@ -87,15 +88,15 @@ Drill, Saw, Scissors, Paper Cutters | as per requirement| Tools for Prototype
 
 
 
-##User Testing, Feedback and Design Changes :
+## User Testing, Feedback and Design Changes :
 
 The neopixel ring used to represent bus ETA initially had a __gradient__ that transitioned from red to green.
-![Time Chunks](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/TheFinalSprint/Images/Time%20Chunks.png)
+![Time Chunks](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Images/Time%20Chunks.png)
 __Distinctly Coloured Quadrants as Time 'Chunks'__
 
 It was however found to be more useful when ‘chunked’ into 3 __distinct quadrants__ of red, yellow and green that clearly represented 5mins each amounting to a whole of 15 mins. Users could now easily understand the and interpret the progression while also having a sense of the 'time' or duration each quadrant indicated.
 
-##Future development :
+## Future development :
 - Selection of appropriate, optimal Hardware for Audio file storage (the Photon is currently unable to store audio data for more than one bus)
 - Scaling : deployment design
 - Refining Case design for installation : must be quick and adaptable to variable pole diameters
