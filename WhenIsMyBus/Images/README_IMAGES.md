@@ -1,7 +1,8 @@
-![The Sign](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180706.jpg)
+![The Sign]
+(https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180706.jpg)
 ![the audio button panel](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180735.jpg)
-![pole base eposing circuitry]https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180806.jpg)
-![the enitre pole assembly]https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180852.jpg)
+![pole base eposing circuitry])https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180806.jpg)
+![the enitre pole assembly](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180852.jpg)
 ![just circuitry at the base](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_180925.jpg)
 ![pole top view](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_181005.jpg)
 ![sign box interior](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_181130.jpg)
@@ -17,5 +18,3 @@
 ![working setup with poster et all](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_221137.jpg)
 ![working setup with poster2](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_221144.jpg)
 ![working setup with poster3](https://github.com/srajend1/projects/tree/master/WhenIsMyBus/Images/IMG_20160508_221146.jpg)
-![]()
-![]()
