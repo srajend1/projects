@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 #### _**When's my bus**_  is a smart bus sign that informs what buses arrive at a given stop and provides real-time data on the bus ETAs via ambient lighting/display mechanisms.
-![Concept Schematic](https://github.com/daraghbyrne/advancediot2016/blob/master/students/srajend1/Schematic.png)
+![Concept Schematic](https://github.com/srajend1/projects/blob/master/WhenIsMyBus/Schematic.png)
 
 -------------------------------------------------------------------------------------------------------------------------
 
